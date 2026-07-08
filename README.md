@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # LinkedIn Organic Content Strategy Research
 ### 100Hires Portfolio Project
 
@@ -91,7 +91,7 @@ Current Progress:
 ---
 
 This repository is maintained as part of the 100Hires hiring process.
-=======
+
 # LinkedIn Organic Content Strategy Research for B2B SaaS
 
 ## Growth Marketing Portfolio Project
@@ -205,4 +205,29 @@ The research follows a structured workflow:
 ## Purpose
 
 This repository has been created as part of the 100Hires Growth Marketing hiring process to demonstrate structured research, analytical thinking, documentation practices, and familiarity with content-led growth strategies.
->>>>>>> 24342343206289b8f9031dfbfbbd6c040c31af78
+24342343206289b8f9031dfbfbbd6c040c31af78
+# Repository Structure
+
+```
+research/
+├── linkedin-posts/
+├── linkedin-analysis/
+├── playbooks/
+├── youtube-transcripts/
+└── sources.md
+```
+
+---
+
+## Skills Demonstrated
+
+- Growth Marketing Research
+- LinkedIn Strategy
+- Content Marketing
+- Competitive Analysis
+- B2B SaaS Research
+- Documentation
+- Git
+- GitHub
+- Marketing Analysis
+- Strategic Thinking
