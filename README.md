@@ -231,3 +231,10 @@ research/
 - GitHub
 - Marketing Analysis
 - Strategic Thinking
+
+## Future Expansion
+
+Planned additions:
+- 50 LinkedIn Post Breakdowns
+- Additional creator research
+- Ongoing learning notes
