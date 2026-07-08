@@ -1,15 +1,15 @@
 # YouTube Learning Notes
 
-This folder is reserved for structured notes from educational YouTube videos related to B2B SaaS marketing, LinkedIn growth, content strategy, and demand generation.
+## Purpose
 
-Instead of storing full video transcripts, this repository focuses on:
+This folder is reserved for structured notes from educational YouTube content published by the selected B2B SaaS marketing experts.
+
+Rather than storing raw transcripts, the research focuses on extracting:
 
 - Key marketing insights
-- Actionable frameworks
-- Content ideas
-- Growth strategies
-- Practical implementation notes
+- Growth frameworks
+- Content strategies
+- Practical tactics
+- Actionable learnings
 
-The methodology for analyzing YouTube content is documented in:
-
-frameworks/youtube-learning-framework.md
+This approach emphasizes reusable knowledge over transcript collection.
