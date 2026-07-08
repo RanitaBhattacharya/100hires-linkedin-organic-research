@@ -1,3 +1,4 @@
+HEAD
 # Research Sources
 
 ## Project Objective
@@ -63,3 +64,6 @@ For each expert, the following process will be followed:
 ---
 
 *This document will be updated as additional research is completed.*
+
+
+3d6720841cbbff735af6ea65559709677035c754
